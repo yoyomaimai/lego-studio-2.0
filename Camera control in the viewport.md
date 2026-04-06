@@ -9,7 +9,7 @@ To **Pan** (move the camera up & down and right & left without turning):
 * Space + **any mouse button** and drag the mouse
 * WASD keys when no parts are selected
 
-Rotating
+## Rotating
 
 To Rotate (turn the camera around the model):
 
