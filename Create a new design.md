@@ -15,6 +15,11 @@ Need help getting started? Here’s a few different ways to start building in St
 
 2. Import an official LEGO® set to build or modify. Time to add some laser cannons to your classic castles!
 
+![image](https://studiohelp.bricklink.com/hc/article_attachments/19046370651543)
+
+3. Import a MOC from the Studio Gallery and put your own spin on it. Only downloadable designs can be imported.
+
+![image]https://studiohelp.bricklink.com/hc/article_attachments/23460656946327
 
 
 
