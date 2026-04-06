@@ -15,3 +15,10 @@ To **Rotate** (turn the camera around the model):
 
 * **right mouse button** and drag the mouse,
 * Ctrl + **left mouse button** and drag the mouse
+
+## Zooming
+
+To **Zoom** in or out:
+
+* **mouse wheel** up & down
+
