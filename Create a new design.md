@@ -24,6 +24,11 @@ Need help getting started? Here’s a few different ways to start building in St
 ![image](https://studiohelp.bricklink.com/hc/article_attachments/23460656946327)
 
 4. Try out the Mosaic feature by uploading your own image. Maybe you’re looking to create a 2D build of a cute pet photo, or you want to gift your best friend a portrait of their own face. Whatever it is, Mosaic can make it! Check out the similar Sculpture feature to turn 3D models into brick sculptures.
+
+![image](https://studiohelp.bricklink.com/hc/article_attachments/19046349425431)
+
+5. Free build! With the entire BrickLink catalog at your disposal, you can go wild and let your imagination run free. You can also challenge yourself by using building palettes with a more limited selection of parts.
+
   
 
 
