@@ -25,8 +25,8 @@ Palette 메뉴에서 Custom Palette 옵션을 선택합니다.
 ---
 
 ## 📷 예시 이미지
-![img](./images/custom_palette.png)
----
+## 📷 예시 이미지
+![Custom Palette](./images/custom_palette.png)---
 
 ## 💡 활용 팁
 - 자주 사용하는 브릭을 미리 저장하면 작업 속도가 매우 빨라집니다.
