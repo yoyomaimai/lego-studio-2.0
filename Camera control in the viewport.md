@@ -11,3 +11,7 @@ WASD keys when no parts are selected
 
 Rotating
 
+To Rotate (turn the camera around the model):
+
+right mouse button and drag the mouse,
+Ctrl + left mouse button and drag the mouse
