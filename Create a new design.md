@@ -9,8 +9,13 @@ You can then add parts to your design.
 
 Need help getting started? Here’s a few different ways to start building in Studio.
 
-Try building against a Reference Image. You can build a perfect scale model of your furry friend, which in this case is... an elephant?
+1. Try building against a Reference Image. You can build a perfect scale model of your furry friend, which in this case is... an elephant?
+
 ![image](https://studiohelp.bricklink.com/hc/article_attachments/19046385091351)
+
+2. Import an official LEGO® set to build or modify. Time to add some laser cannons to your classic castles!
+
+
 
 
 
