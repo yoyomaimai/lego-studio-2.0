@@ -12,7 +12,8 @@ Studio는 사용자의 목적에 따라 여러 가지 3D 포맷 출력을 지원
 *   **Collada (.dae):** 지오메트리와 색상 정보를 포함하는 포맷으로, **Blender(블렌더)**나 Unity 같은 전문 3D 그래픽 툴에서 고퀄리티 렌더링이나 애니메이션을 제작할 때 필수적입니다.
 *   **Wavefront (.obj):** 가장 범용적인 3D 포맷으로, 3D 프린팅 소프트웨어나 증강현실(AR) 콘텐츠 제작 환경에서 널리 사용됩니다.
 *   **Part List (.csv, .xml):** 모델에 사용된 브릭의 목록을 데이터화하여 엑셀 등으로 추출합니다. 예산 산출이나 재고 관리에 유용합니다.
-[Export Menu](../images/export_sample.png)
+
+    [Export Menu](../images/export_sample.png)
 
 ## 3. 커뮤니티 연동 (Connect to BrickLink)
 상단 우측의 **[Connect]** 버튼을 통해 BrickLink 계정을 연동하면 디지털 설계가 실제 브릭 구매와 소유로 이어지는 혁신적인 워크플로우를 경험할 수 있습니다.
