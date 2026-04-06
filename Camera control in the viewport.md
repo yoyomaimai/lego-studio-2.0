@@ -11,7 +11,7 @@ To **Pan** (move the camera up & down and right & left without turning):
 
 ## Rotating
 
-To Rotate (turn the camera around the model):
+To **Rotate** (turn the camera around the model):
 
-right mouse button and drag the mouse,
-Ctrl + left mouse button and drag the mouse
+* **right mouse button** and drag the mouse,
+* Ctrl + **left mouse button** and drag the mouse
