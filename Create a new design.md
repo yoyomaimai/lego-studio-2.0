@@ -19,7 +19,7 @@ Need help getting started? Here’s a few different ways to start building in St
 
 3. Import a MOC from the Studio Gallery and put your own spin on it. Only downloadable designs can be imported.
 
-![image]https://studiohelp.bricklink.com/hc/article_attachments/23460656946327
+![image](https://studiohelp.bricklink.com/hc/article_attachments/23460656946327)
 
 
 
