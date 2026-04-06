@@ -2,9 +2,11 @@ It’s time to create your first design in Studio! Below is the Welcome Screen y
 ![image](https://studiohelp.bricklink.com/hc/article_attachments/24162295253015)
 
 To start a new project, you can: 
-From the Welcome Screen, click Create New (A). Studio will create a new tab.
-Click File | New.
-Use the keyboard shortcut Ctrl + N. 
+
+1. From the Welcome Screen, click Create New (A). Studio will create a new tab.
+2. Click File | New.
+3. Use the keyboard shortcut Ctrl + N.
+   
 You can then add parts to your design.
 
 Need help getting started? Here’s a few different ways to start building in Studio.
