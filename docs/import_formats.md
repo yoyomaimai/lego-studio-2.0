@@ -25,8 +25,7 @@ LEGO Studio 2.0을 실행합니다.
 ---
 
 ## 📷 예시 이미지
-(md./images/import_formats.png)
-
+![Import](./images/import_formats.png)
 ---
 
 ## 📂 지원 파일 형식
