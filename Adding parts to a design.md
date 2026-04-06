@@ -40,6 +40,9 @@
 ## 사용 방법
 
 ### 1. 부품 선택 및 배치 (방법 1: 클릭 방식)
+
+![클릭 방식을 이용한 블록 배치 직전 장면](https://github.com/user-attachments/assets/a347d3d2-7d47-408f-8078-8fbbab0ce371)
+
 - Building Palette에서 원하는 부품을 클릭한다.  
 - 커서를 작업 화면(Viewport)으로 이동한다.  
 - 마우스 왼쪽 버튼을 클릭하거나 Space 키를 눌러 원하는 위치에 배치한다.  
@@ -47,6 +50,9 @@
 
 
 ### 2. 부품 배치 (방법 2: 드래그 방식)
+
+![블럭을 드래그해 작업 화면으로 옮기는 장면](https://github.com/user-attachments/assets/05610a5e-9c78-470b-b524-2e27e45a043a)
+
 - Building Palette에서 부품을 클릭한 상태로 드래그한다.  
 - 작업 화면(Viewport)으로 이동한 뒤 마우스를 놓는다.  
 - 드래그 중에는 카메라 이동 및 회전이 제한된다.
