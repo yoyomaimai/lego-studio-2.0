@@ -1,4 +1,4 @@
-Camera control 
+**Camera control**
 
 Panning
 
