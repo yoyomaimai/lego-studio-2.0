@@ -10,7 +10,7 @@ You can then add parts to your design.
 Need help getting started? Here’s a few different ways to start building in Studio.
 
 Try building against a Reference Image. You can build a perfect scale model of your furry friend, which in this case is... an elephant?
-https://studiohelp.bricklink.com/hc/article_attachments/19046385091351
+![image](https://studiohelp.bricklink.com/hc/article_attachments/19046385091351)
 
 
 
