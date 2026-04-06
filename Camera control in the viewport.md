@@ -2,11 +2,11 @@
 
 ## **Panning**
 
-To Pan (move the camera up & down and right & left without turning):
+To **Pan** (move the camera up & down and right & left without turning):
 
-middle mouse button and drag the mouse,
-Shift + any mouse button and drag the mouse
-Space + any mouse button and drag the mouse
+**middle mouse** button and drag the mouse,
+Shift + **any mouse button** and drag the mouse
+Space + **any mouse button** and drag the mouse
 WASD keys when no parts are selected
 
 Rotating
