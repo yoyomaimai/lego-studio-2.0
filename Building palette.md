@@ -12,32 +12,32 @@
 > Building Palette의 전체 구성 화면으로 주요 기능들이 어떻게 배치되어 있는지를 보여준다.
 
 ### 1. 부품 정렬 및 관리
-- **Palette Dropdown**  
+- **A. Palette Dropdown**  
   : 현재 사용 중인 부품 목록 확인 및 팔레트 선택·관리  
 
-- **Category Types**  
+- **B. Category tabs**  
   : 부품 정렬 기준 설정 (Shapes, BrickLink, Colors)  
 
-- **Categories**  
+- **B. Categories**  
   : 정렬 기준에 따른 부품 그룹 확인 및 구성  
 
 
 ### 2. 부품 탐색 및 선택
-- **Parts**  
+- **C. Parts**  
   : 선택한 카테고리에 포함된 부품 목록 확인  
 
-- **Search**  
+- **D. Search box**  
   : 키워드 입력을 통한 부품 검색  
 
 
 ### 3. 색상 및 표시 설정
-- **Color Palette**  
+- **E. Color Palette**  
   : 부품 색상 선택 및 기본 색상 설정  
 
-- **Decorated Parts Toggle**  
+- **F. Decorated Parts Toggle**  
   : 프린트 및 스티커 부품 표시 여부 전환  
 
-- **Brick Thumbnail Size**  
+- **G. Thumbnail Size**  
   : 부품 미리보기 크기 조정  
 
 ---
