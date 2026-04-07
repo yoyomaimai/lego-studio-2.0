@@ -13,6 +13,8 @@ BrickLink Studio의 Build Mode Interface는 사용자가 가상 공간에서 레
 
 왼쪽에는 부품 팔레트(Parts Palette)가 있어 다양한 레고 부품을 검색하고 선택할 수 있으며, 색상이나 종류에 따라 필터링도 가능하다. 이를 통해 필요한 부품을 빠르게 찾아 작업 공간으로 가져올 수 있다.
 
+![예시](
+
 ---
 # Tool bar
 
@@ -22,6 +24,9 @@ BrickLink Studio의 Build Mode Interface는 사용자가 가상 공간에서 레
 # Part 패널
 
 오른쪽 영역에는 색상 변경 및 속성 설정 패널이 있어 선택한 부품의 색상이나 특성을 수정할 수 있다. 
+
+![예시](https://github.com/wonhy1619/lego-studio-2.0/blob/0624674131f02fc9df57840bf36a59964855fe6a/IMG_7119.jpeg)
+
 
 또한 조립 단계를 관리하는 Step 패널을 통해 모델을 단계별로 나누어 정리할 수 있으며, 이는 설명서 제작에도 활용된다.
 
