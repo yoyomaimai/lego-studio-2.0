@@ -28,10 +28,33 @@ The camera icon on the top left of the Viewport lets you quickly access predefin
 
 
 ![image](https://studiohelp.bricklink.com/hc/article_attachments/5406721507863)
-In the default view: you can pan and turn the camera as you wish, but there are predefined viewpoints: front, back, left, right, bottom and top.
+In the default view: you can pan and turn the camera as you wish, but there are predefined viewpoints: **front, back, left, right, bottom** and **top.**
 
-Orthogonal/Orthographic: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
+**Orthogonal/Orthographic**: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
 
+
+![image](https://studiohelp.bricklink.com/hc/article_attachments/39556988378647)
+The predefined views are also accessible from View | Orientation in the menu bar. You can use shortcuts to quickly change to a different predefined view:
+Perspective	Backquote
+Front	Numpad1
+Back	Numpad2
+Left	Numpad3
+Right	Numpad4
+Top	Numpad5
+Bottom	Numpad6
+Orthographic	Numpad7
+
+3D View Cube
+
+The 3D Cube represents the view of the scene. The cube will turn as you turn the scene.
+
+![image](https://studiohelp.bricklink.com/hc/article_attachments/39558325323159)
+
+Centerng the view
+
+You can center the view around the mouse pointer by right-clicking and selecting Pan to cursor or by pressing F on the keyboard. 
+
+You can center the view to show all of the models by right-clicking and selecting Reset camera origin or by clicking View | Zoom to fit in the menu bar.
 
 
 
