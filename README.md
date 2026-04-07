@@ -30,6 +30,6 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ### Connect
 
-### Custom palette(./Add docs.custom_palette.md)
+### Custom palette
 
 ### Import formats
