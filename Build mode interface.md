@@ -2,6 +2,8 @@
 
 BrickLink Studio의 Build Mode Interface는 사용자가 가상 공간에서 레고 모델을 설계하고 조립할 수 있도록 구성된 작업 환경이다. 이 인터페이스는 부품 선택, 배치, 수정 등 모든 모델링 작업이 이루어지는 핵심 화면이다.
 
+![예시](https://github.com/wonhy1619/lego-studio-2.0/blob/0624674131f02fc9df57840bf36a59964855fe6a/IMG_7120.jpeg)
+
 ---
 
 # Workspace
