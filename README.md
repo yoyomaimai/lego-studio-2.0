@@ -26,7 +26,7 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ### [Adding Parts to a Design](./Adding%20parts%20to%20a%20design.md)
 
-### [Exporting to other formats](./exporting to other formats.md)
+### [Exporting to other formats](./exporting%20to%20other%20formats.md)
 
 ### [Connect](docs/connect.md)
 
