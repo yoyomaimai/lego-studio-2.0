@@ -31,7 +31,9 @@
 
 사용 방법은 부품을 선택하고 상단 toolbar에서 rotation을 선택한다.
 
-그리고 Rotation matrix를 기반으로 X, Y, Z축 방향 회전을 적용한다. 
+그리고 Rotation matrix를 기반으로 X, Y, Z축 방향 회전을 적용한다.
+
+![예시](https://github.com/wonhy1619/lego-studio-2.0/blob/cf9c6b51762007eab013195c4ac4730ecdc9ac95/IMG_7124.jpeg)
 
 여기서는 각도를 직접 입력할 수 있으며 X축은 좌우를 기준으로 위아래 회전, Y축은 앞뒤를 기준으로 좌우 회전, Z축은 수직 방향을 기준으로 평면 회전을 의미한다. 
 
