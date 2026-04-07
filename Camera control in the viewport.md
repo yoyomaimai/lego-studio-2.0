@@ -21,4 +21,7 @@ To **Rotate** (turn the camera around the model):
 To **Zoom** in or out:
 
 * **mouse wheel** up & down
+  Predefined views
+![image](https://studiohelp.bricklink.com/hc/article_attachments/5406647348503)
+
 
