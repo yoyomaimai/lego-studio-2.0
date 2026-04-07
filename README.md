@@ -22,7 +22,7 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ### [Build mode interface](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
 
-### [Building palette](./Building%20pallette.md)
+### [Building palette](./Building%20palette.md)
 
 ### [Adding Parts to a Design](./Adding%20parts%20to%20a%20design.md)
 
