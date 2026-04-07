@@ -30,5 +30,9 @@ The camera icon on the top left of the Viewport lets you quickly access predefin
 ![image](https://studiohelp.bricklink.com/hc/article_attachments/5406721507863)
 In the default view: you can pan and turn the camera as you wish, but there are predefined viewpoints: front, back, left, right, bottom and top.
 
+Orthogonal/Orthographic: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
+
+
+
 
 
