@@ -16,7 +16,7 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ### [Create a new design](./Create%20a%20new%20design.md)
 
-### Camera control in the viewport 
+### [Camera control in the viewport](./Camera%20control%20in%20the%20viewport.md)
 
 ### Hinge and Rotation tool
 
