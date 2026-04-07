@@ -9,6 +9,8 @@
 
 ![building pallets의 전체 구성 화면](https://github.com/user-attachments/assets/6b9c2b7f-5a2a-49fe-8437-5121fc776e01)
 
+> Building Palette의 전체 구성 화면으로 주요 기능들이 어떻게 배치되어 있는지를 보여준다.
+
 ### 1. 부품 정렬 및 관리
 - **Palette Dropdown**  
   : 현재 사용 중인 부품 목록을 확인하고 팔레트를 선택한다.
