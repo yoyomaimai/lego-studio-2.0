@@ -37,4 +37,6 @@ LDraw는 레고 디지털 설계의 가장 표준적인 **오픈소스 포맷**�
 ## 4. 결론 (Conclusion)
 
 내보내기 기능은 창작자의 결과물을 3D 산업 전반으로 확장시키는 교두보 역할을 합니다. 적절한 포맷 선택은 작업 효율을 극대화하는 첫걸음입니다.
-wjdtlr    rlwkr  djseks     rmfntehls goddnl
+wjdtlr    rlwkr  djseks     rmfntehls goddnl    
+
+    alkfjslkfjlkewfew
