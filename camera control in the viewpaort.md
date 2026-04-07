@@ -1,6 +1,6 @@
-Camera control 
+#Camera control 
 
-Panning
+##Panning
 
 To Pan (move the camera up & down and right & left without turning):
 
