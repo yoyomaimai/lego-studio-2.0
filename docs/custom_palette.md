@@ -25,7 +25,6 @@ Palette 메뉴에서 Custom Palette 옵션을 선택합니다.
 ---
 
 ## 📷 예시 이미지
-## 📷 예시 이미지
 ![Custom Palette](./images/custom_palette.png)---
 
 ## 💡 활용 팁
