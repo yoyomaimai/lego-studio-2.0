@@ -14,3 +14,22 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ## 목차
 
+### Create a new design
+
+### Camera control in the viewport
+
+### Hinge and Rotation tool
+
+### Build mode interface
+
+### Building palette
+
+### Adding parts to a design
+
+### Exporting to other formats
+
+### Connect
+
+### Custom palette
+
+### Import formats
