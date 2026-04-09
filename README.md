@@ -1,9 +1,10 @@
 # commit 정책
 
 1. commit의 총 횟수는 40번 내외로 한다.
+
 2. 자신의 branch를 만들어 담당 파트의 .md에 내용을 구성한다. 전체적인 내용 구성이 끝나면 main에 merge한다.
-   2-1. .md의 전체적인 내용 구성이 끝나면 main에 merge한다.
-   2-2. main에 merge 후 자잘한 수정은 자신의 branch에서 진행하고 4월 9일 9시까지 최종안을 pr 후 merge한다.
+   - md의 전체적인 내용 구성이 끝나면 main에 merge한다.
+   - main에 merge 후 자잘한 수정은 자신의 branch에서 진행하고 4월 9일 9시까지 최종안을 PR 후 merge한다.
 
 # LEGO Studio 2.0 User Manual
 
@@ -41,9 +42,9 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
  
 ### 파일 관리 및 확장 기능
 
--  [Exporting to other formats](./exporting%20to%20other%20formats.md)
+-  [Exporting to other formats](./Exporting-to-other-formats.md)
 
-- [Connect](docs/connect.md)
+- [Connect](./Connect.md)
 
 - [Custom palette](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
 
@@ -56,16 +57,20 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 ### 장점
 
 1. **다양한 레고 부품 제공**
-   - 실제 레고와 동일한 부품 데이터 사용
-   - 원하는 거의 모든 부품 사용 가능
+                                                                   ![lego1](lego1.png)
+- 실제 레고와 동일한 부품 데이터 사용
+- 원하는 거의 모든 부품 사용 가능
 
-2. **비용 없이 자유로운 설계**
-   - 프로그램 내에서 무료로 무제한 사용 가능
+3. **비용 없이 자유로운 설계**
+                                                                   ![lego2](lego2.png)
 
-3. **직관적인 인터페이스**
-   - 드래그 앤 드롭 방식
-   - 자동 결합 기능
-   - 초보자도 쉽게 사용 가능
+- 프로그램 내에서 무료로 무제한 사용 가능
+
+5. **직관적인 인터페이스**
+                                                                   ![lego3](lego3.png) 
+- 드래그 앤 드롭 방식
+- 자동 결합 기능
+- 초보자도 쉽게 사용 가능
 
 ### 단점
 
@@ -102,5 +107,5 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
   - 창의적 설계 학습 도구로 활용  
 
 - **실제 제작 (MOC)**
-  - 설계한 모델을 기반으로 부품 목록 생성 가능  
+  - 설계한 모델을 기반으로 록 생성 가능  
   - 실제 레고 작품 제작에 활용  
