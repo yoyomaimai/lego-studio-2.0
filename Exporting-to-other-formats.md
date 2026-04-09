@@ -23,7 +23,7 @@ Studio는 다음 파일 형식으로의 내보내기를 지원합니다:
 
 디자인을 다른 형식으로 저장하거나 내보내려면 **File(파일) | Export As**(다른 형식으로 내보내기) 메뉴로 이동하여 표시된 옵션 중 하나를 선택하십시오.
 
-     ![File->Export as](https://studiohelp.bricklink.com/hc/article_attachments/6501944483735)
+![File->Export as](https://studiohelp.bricklink.com/hc/article_attachments/6501944483735)
 
 ---
 
