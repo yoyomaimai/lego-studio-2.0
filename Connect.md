@@ -1,15 +1,15 @@
-# 🔗 Connect (연결)
+# Connect
 
 **Connect 툴**은 빌더가 정밀하거나 까다로운 연결을 수행할 수 있도록 돕는 도구입니다. 
 연결 지점을 직접 선택하여 부품을 이동하고 결합할 수 있으며, 특히 연결 가능한 지점이 많아 원하는 대로 조립하기 어려울 때 매우 유용합니다.
 
-### 1. Connect 툴 실행하기
+## Accessing the Connect tool
 *   툴바에서 **Connect 아이콘**을 클릭하여 활성화합니다.
 *   툴이 활성화되면 아이콘이 파란색으로 변하며, 마우스 포인터 옆에 Connect 아이콘이 나타납니다.
 
     ![Connect](https://studiohelp.bricklink.com/hc/article_attachments/20960978033687)
     
-### 2. Connect 툴 사용 방법
+## Using the Connect tool
 
 도구를 선택하기 전에 선택된 부품이 없는 경우, 다음 순서대로 진행합니다.
 
