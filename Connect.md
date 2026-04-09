@@ -9,7 +9,7 @@
 툴바에서 **Connect 아이콘**을 클릭하여 활성화합니다.
 툴이 활성화되면 아이콘이 파란색으로 변하며, 마우스 포인터 옆에 Connect 아이콘이 나타납니다.
 
-    ![Connect](https://studiohelp.bricklink.com/hc/article_attachments/20960978033687)
+![Connect](https://studiohelp.bricklink.com/hc/article_attachments/20960978033687)
 
 ---
 
