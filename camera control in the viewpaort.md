@@ -46,7 +46,11 @@ Top	          Numpad5
 Bottom      	Numpad6
 Orthographic	Numpad7
 
+3D View Cube
 
+The 3D Cube represents the view of the scene. The cube will turn as you turn the scene.
+
+![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39558325323159)
 
 
 
