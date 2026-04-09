@@ -90,4 +90,8 @@ You can lock the view in the Viewport. When the view is locked, you won’t be a
 
 ![Locking the Viewport](https://studiohelp.bricklink.com/hc/article_attachments/5409140871447)
 
+The Viewport can be locked and unlocked by using the lock icon.
+
+
+
 
