@@ -32,4 +32,4 @@
 * **물리 법칙:** Connect 도구는 부품 간의 충돌(Collisions)을 무시하고 연결을 우선시하므로, 정밀한 각도 작업 시 유용합니다.
 
 ---
-*Reference: BrickLink Studio Help Center*
+*참고: 본 문서는 BrickLink 공식 도움말(Connect)을 기반으로 제작되었습니다.*
