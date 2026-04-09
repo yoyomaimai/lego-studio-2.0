@@ -4,8 +4,8 @@
 연결 지점을 직접 선택하여 부품을 이동하고 결합할 수 있으며, 특히 연결 가능한 지점이 많아 원하는 대로 조립하기 어려울 때 매우 유용합니다.
 
 ## Accessing the Connect tool
-*   툴바에서 **Connect 아이콘**을 클릭하여 활성화합니다.
-*   툴이 활성화되면 아이콘이 파란색으로 변하며, 마우스 포인터 옆에 Connect 아이콘이 나타납니다.
+툴바에서 **Connect 아이콘**을 클릭하여 활성화합니다.
+툴이 활성화되면 아이콘이 파란색으로 변하며, 마우스 포인터 옆에 Connect 아이콘이 나타납니다.
 
     ![Connect](https://studiohelp.bricklink.com/hc/article_attachments/20960978033687)
     
@@ -24,10 +24,10 @@
 ![7번 설명 이미지](https://studiohelp.bricklink.com/hc/article_attachments/20960978060311)
 8.   두 개의 선택된 연결점이 연결되도록 부품이 이동합니다.
 
-### 4. 고급 활용 및 주의사항
+## Multi-point connection
+여러 개의 스터드를 한 번에 연결할 수 있습니다. Mac에서는 **Cmd** 키를, Windows에서는 **Ctrl** 키를 누른 상태에서 추가 연결 지점을 선택할 수 있습니다. 이 기능은 선택한 지점들이 서로 연결 가능한 구조일 때만 작동합니다.
 
-* **다중 지점 연결:** `Ctrl`(Windows) 또는 `Cmd`(Mac) 키를 누른 상태에서 추가 연결 지점을 선택하여 여러 스터드를 동시에 연결할 수 있습니다.
-* **차축 및 바(Axles and Bars):** 길이를 따라 배치된 수많은 연결 지점을 활용해, 부품을 다른 브릭에 삽입할 때 원하는 깊이에서 정확히 멈추도록 설정할 수 있습니다.
+##
 ![차축 및 바](https://studiohelp.bricklink.com/hc/article_attachments/25790682403223)
 * **물리 법칙:** Connect 도구는 부품 간의 충돌(Collisions)을 무시하고 연결을 우선시하므로, 정밀한 각도 작업 시 유용합니다.
 
