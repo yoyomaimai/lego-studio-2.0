@@ -18,7 +18,7 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 - [Create a new design](./Create%20a%20new%20design.md)
 
-- [Camera control in the viewport](./Camera%20control%20in%20the%20viewport.md)
+- [Camera control in the viewport](./Camera%20control%20in%20the%20viewpaort.md)
 
 - [Build mode interface](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
 
