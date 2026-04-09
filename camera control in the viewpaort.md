@@ -65,6 +65,8 @@ Note: Pan to cursor used to be named "Set origin". Reset camera origin now cente
 
 ## Splitting the screen
 
+You can split the screen into as many as four (4) Viewports for a project. Each Viewport will have its own view of the model.
 
+![Splitting the screen image](https://studiohelp.bricklink.com/hc/article_attachments/5406803442327)
 
 
