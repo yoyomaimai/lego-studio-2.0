@@ -52,7 +52,7 @@ The 3D Cube represents the view of the scene. The cube will turn as you turn the
 
 ![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39558325323159)
 
-##Centerng the view
+## Centerng the view
 
 You can center the view around the mouse pointer by right-clicking and selecting **Pan to cursor** or by pressing **F** on the keyboard. 
 
