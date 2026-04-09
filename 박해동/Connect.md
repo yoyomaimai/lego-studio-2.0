@@ -23,3 +23,13 @@
 7.   첫 번째 부품을 부착하려는 연결 지점을 클릭합니다.
 ![7번 설명 이미지](https://studiohelp.bricklink.com/hc/article_attachments/20960978060311)
 8.   두 개의 선택된 연결점이 연결되도록 부품이 이동합니다.
+
+### 4. 고급 활용 및 주의사항
+
+* **다중 지점 연결:** `Ctrl`(Windows) 또는 `Cmd`(Mac) 키를 누른 상태에서 추가 연결 지점을 선택하여 여러 스터드를 동시에 연결할 수 있습니다.
+* **차축 및 바(Axles and Bars):** 길이를 따라 배치된 수많은 연결 지점을 활용해, 부품을 다른 브릭에 삽입할 때 원하는 깊이에서 정확히 멈추도록 설정할 수 있습니다.
+![차축 및 바](https://studiohelp.bricklink.com/hc/article_attachments/25790682403223)
+* **물리 법칙:** Connect 도구는 부품 간의 충돌(Collisions)을 무시하고 연결을 우선시하므로, 정밀한 각도 작업 시 유용합니다.
+
+---
+*Reference: BrickLink Studio Help Center*
