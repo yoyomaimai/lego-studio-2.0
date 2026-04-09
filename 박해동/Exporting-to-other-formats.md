@@ -8,3 +8,4 @@ Studio에서는 설계를 마친 모델을 다양한 외부 형식으로 내보�
 1.  상단 메뉴에서 **File(파일)**을 클릭합니다.
 2.  **Export as(다른 형식으로 내보내기)** 메뉴를 선택합니다.
 3.  원하는 내보내기 옵션 중 하나를 선택합니다.
+4.  ![File->Export as](https://studiohelp.bricklink.com/hc/article_attachments/6501944483735)
