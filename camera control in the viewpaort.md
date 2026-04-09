@@ -56,6 +56,8 @@ Centerng the view
 
 You can center the view around the mouse pointer by right-clicking and selecting Pan to cursor or by pressing F on the keyboard. 
 
+You can center the view to show all of the models by right-clicking and selecting Reset camera origin or by clicking View | Zoom to fit in the menu bar.
+
 
 
 
