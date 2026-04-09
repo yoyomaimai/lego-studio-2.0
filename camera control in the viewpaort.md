@@ -32,7 +32,7 @@ The **camera** icon on the top left of the Viewport lets you quickly access pred
 
 In the default view: you can pan and turn the camera as you wish, but there are predefined viewpoints: **front, back, left, right, bottom** and **top.**
 
-Orthogonal/Orthographic: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
+**Orthogonal/Orthographic**: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
 
 ![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39556988378647)
 The predefined views are also accessible from View | Orientation in the menu bar. You can use shortcuts to quickly change to a different predefined view:
@@ -46,17 +46,17 @@ Top	          Numpad5
 Bottom      	Numpad6
 Orthographic	Numpad7
 
-3D View Cube
+##3D View Cube
 
 The 3D Cube represents the view of the scene. The cube will turn as you turn the scene.
 
 ![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39558325323159)
 
-Centerng the view
+##Centerng the view
 
-You can center the view around the mouse pointer by right-clicking and selecting Pan to cursor or by pressing F on the keyboard. 
+You can center the view around the mouse pointer by right-clicking and selecting **Pan to cursor** or by pressing **F** on the keyboard. 
 
-You can center the view to show all of the models by right-clicking and selecting Reset camera origin or by clicking View | Zoom to fit in the menu bar.
+You can center the view to show all of the models by right-clicking and selecting **Reset camera origin** or by clicking **View | Zoom to fit** in the menu bar.
 
 ✨TIP
 You can also center the view on the current selection but this feature has no default shortcut. You need to define one to be able to use it via custom shortcuts.
@@ -69,7 +69,7 @@ You can split the screen into as many as four (4) Viewports for a project. Each 
 
 ![Splitting the screen image](https://studiohelp.bricklink.com/hc/article_attachments/5406803442327)
 
-To add a Viewport, to split the screen click View | Viewport | Add Viewport in the menu bar or:
+To add a Viewport, to split the screen click **View | Viewport | Add Viewport** in the menu bar or:
 
 1. Click on the **camera** icon
 2. Click +
