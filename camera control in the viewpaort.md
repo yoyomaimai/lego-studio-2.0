@@ -80,3 +80,6 @@ To delete the current Viewport, click **View | Viewport | Delete Viewport** in t
 2. Click x
 
 
+📓 NOTES
+the current Viewport is the last one you’ve used and will have the camera icon.
+
