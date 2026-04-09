@@ -2,9 +2,9 @@
 
 1.commit의 총 횟수는 40번 내외로 한다.
    
-2.자신의 branch를 만들어 담당 파트의 .md에 내용을 구성한다. 전체적인 내용 구성이 끝나면 main에 merge한다. <br>
- 2-1.md의 전체적인 내용 구성이 끝나면 main에 merge한다.<br>
- 2-2. main에 merge 후 자잘한 수정은 자신의 branch에서 진행하고 4월 9일 9시까지 최종안을 pr 후 merge한다.
+2. 자신의 branch를 만들어 담당 파트의 .md에 내용을 구성한다. 전체적인 내용 구성이 끝나면 main에 merge한다.  
+   1. md의 전체적인 내용 구성이 끝나면 main에 merge한다.  
+   2. main에 merge 후 자잘한 수정은 자신의 branch에서 진행하고 4월 9일 9시까지 최종안을 PR 후 merge한다.
 
 # LEGO Studio 2.0 User Manual
 
