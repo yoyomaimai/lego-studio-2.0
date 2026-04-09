@@ -58,10 +58,10 @@ You can center the view around the mouse pointer by right-clicking and selecting
 
 You can center the view to show all of the models by right-clicking and selecting Reset camera origin or by clicking View | Zoom to fit in the menu bar.
 
-Tip 
+✨TIP
 You can also center the view on the current selection but this feature has no default shortcut. You need to define one to be able to use it via custom shortcuts.
 
-Note: Pan to cursor used to be named "Set origin". Reset camera origin now centers the camera view.
+**Note: Pan to cursor** used to be named "**Set origin**". Reset camera origin now centers the camera view.
 
 ## Splitting the screen
 
@@ -92,6 +92,8 @@ You can lock the view in the Viewport. When the view is locked, you won’t be a
 
 The Viewport can be locked and unlocked by using the lock icon.
 
-
-
+✨TIP
+* You can define your own shortcuts by opening **Edit | Preferences | Shortcuts | View** in the menu bar.
+* The number of Viewports is the same for every model opened at the same time, but you can set a different view in each one.
+* The level of detail (how smoothly the parts are drawn) can be changed by going into **Edit | Preferences | Appearance** in the menu bar.
 
