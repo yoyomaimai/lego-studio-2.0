@@ -14,25 +14,33 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
 
 ## 목록
 
-### [Create a new design](./Create%20a%20new%20design.md)
+### 기본 설정 및 인터페이스 
 
-### [Camera control in the viewport](./Camera%20control%20in%20the%20viewport.md)
+- [Create a new design](./Create%20a%20new%20design.md)
 
-### [Hinge and Rotation tool](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
+- [Camera control in the viewport](./Camera%20control%20in%20the%20viewport.md)
 
-### [Build mode interface](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
+- [Build mode interface](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
 
-### [Building palette](./Building%20palette.md)
+### 도구 활용
 
-### [Adding Parts to a Design](./Adding%20parts%20to%20a%20design.md)
+- [Hinge and Rotation tool](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
 
-### [Exporting to other formats](./exporting%20to%20other%20formats.md)
+### 부품 선택 및 설계
 
-### [Connect](docs/connect.md)
+- [Building palette](./Building%20palette.md)
 
-### [Custom palette](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
+- [Adding Parts to a Design](./Adding%20parts%20to%20a%20design.md)
+ 
+### 파일 관리 및 확장 기능
 
-### [Import formats](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
+-  [Exporting to other formats](./exporting%20to%20other%20formats.md)
+
+- [Connect](docs/connect.md)
+
+- [Custom palette](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
+
+- [Import formats](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
 
 ---
 
