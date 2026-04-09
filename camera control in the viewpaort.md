@@ -52,5 +52,6 @@ The 3D Cube represents the view of the scene. The cube will turn as you turn the
 
 ![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39558325323159)
 
+Centerng the view
 
 
