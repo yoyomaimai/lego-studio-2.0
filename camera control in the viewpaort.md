@@ -88,6 +88,6 @@ the current Viewport is the last one you’ve used and will have the camera icon
 ## Locking the Viewport
 You can lock the view in the Viewport. When the view is locked, you won’t be able to pan or rotate the view.
 
-
+![Locking the Viewport](https://studiohelp.bricklink.com/hc/article_attachments/5409140871447)
 
 
