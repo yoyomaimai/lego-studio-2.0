@@ -63,6 +63,8 @@ You can also center the view on the current selection but this feature has no de
 
 Note: Pan to cursor used to be named "Set origin". Reset camera origin now centers the camera view.
 
+## Splitting the screen
+
 
 
 
