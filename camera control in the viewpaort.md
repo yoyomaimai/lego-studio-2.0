@@ -34,6 +34,19 @@ In the default view: you can pan and turn the camera as you wish, but there are 
 
 Orthogonal/Orthographic: The last button on the right lets you switch to an orthographic view. All the parts will be the same size whether they’re on the front or the back of the model. This is the opposite of the default perspective view where parts are smaller in the back and bigger on the front, like in real life.
 
+![가이드용 스크린 샷](https://studiohelp.bricklink.com/hc/article_attachments/39556988378647)
+The predefined views are also accessible from View | Orientation in the menu bar. You can use shortcuts to quickly change to a different predefined view:
+
+Perspective 	Backquote
+Front     	  Numpad1
+Back	        Numpad2
+Left      	  Numpad3
+Right	        Numpad4
+Top	          Numpad5
+Bottom      	Numpad6
+Orthographic	Numpad7
+
+
 
 
 
