@@ -1,16 +1,27 @@
-Camera control 
+# Camera control 
 
-Panning
+## Panning
 
-To Pan (move the camera up & down and right & left without turning):
+To **Pan** (move the camera up & down and right & left without turning):
 
-middle mouse button and drag the mouse,
-Shift + any mouse button and drag the mouse
-Space + any mouse button and drag the mouse
-WASD keys when no parts are selected
-Rotating
+* **middle** mouse button and drag the mouse,
+* Shift + **any mouse button** and drag the mouse
+* Space + **any mouse button** and drag the mouse
+* WASD keys when no parts are selected
 
-To Rotate (turn the camera around the model):
+## Rotating
 
-right mouse button and drag the mouse,
-Ctrl + left mouse button and drag the mouse
+To **Rotate** (turn the camera around the model):
+
+* **right mouse button** and drag the mouse,
+Ctrl + **left mouse button** and drag the mouse
+
+## Zooming
+
+To **Zoom** in or out:
+
+* **mouse wheel** up & down
+
+## Predefined views
+
+![predefined views](https://studiohelp.bricklink.com/hc/article_attachments/5406647348503)
