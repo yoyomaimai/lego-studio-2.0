@@ -83,3 +83,4 @@ To delete the current Viewport, click **View | Viewport | Delete Viewport** in t
 📓 NOTES
 the current Viewport is the last one you’ve used and will have the camera icon.
 
+![Splitting the screen image](https://studiohelp.bricklink.com/hc/article_attachments/39556988387223)
