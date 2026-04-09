@@ -42,9 +42,9 @@ Studio 2.0은 다양한 레고 부품을 활용하여 모델을 설계하고 이
  
 ### 파일 관리 및 확장 기능
 
--  [Exporting to other formats](박해동/Exporting-to-other-formats.md)
+-  [Exporting to other formats](./Exporting-to-other-formats.md)
 
-- [Connect](박해동/Connect.md)
+- [Connect](./Connect.md)
 
 - [Custom palette](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
 
