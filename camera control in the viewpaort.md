@@ -69,4 +69,14 @@ You can split the screen into as many as four (4) Viewports for a project. Each 
 
 ![Splitting the screen image](https://studiohelp.bricklink.com/hc/article_attachments/5406803442327)
 
+To add a Viewport, to split the screen click View | Viewport | Add Viewport in the menu bar or:
+
+1. Click on the **camera** icon
+2. Click +
+   
+To delete the current Viewport, click **View | Viewport | Delete Viewport** in the menu bar or:
+
+1. Click on the **camera** icon
+2. Click x
+
 
