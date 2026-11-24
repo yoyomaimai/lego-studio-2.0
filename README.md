@@ -24,31 +24,31 @@ Studio 2.0 是一款軟體，讓您能夠利用種類豐富的樂高零件進行
 
 ### 基本設定與介面
 
-- [Create a new design](./Create%20a%20new%20design.md)
+- [建立新設計](./Create%20a%20new%20design.md)
 
-- [Camera control in the viewport](./Camera%20control%20in%20the%20viewpaort.md)
+- [視埠中的攝影機控制](./Camera%20control%20in%20the%20viewpaort.md)
 
-- [Build mode interface](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
+- [建造模式介面](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
 
 ### 使用工具
 
-- [Hinge and Rotation tool](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
+- [鉸鏈與旋轉工具](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
 
 ### 組件選用與設計
 
-- [Building palette](./Building%20palette.md)
+- [搭建色盤](./Building%20palette.md)
 
-- [Adding Parts to a Design](./Adding%20parts%20to%20a%20design.md)
+- [將零件加入設計](./Adding%20parts%20to%20a%20design.md)
  
 ### 文件管理與擴充
 
--  [Exporting to other formats](./Exporting-to-other-formats.md)
+-  [匯出為其他格式](./Exporting-to-other-formats.md)
 
-- [Connect](./Connect.md)
+- [連結](./Connect.md)
 
-- [Custom palette](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
+- [自訂調色盤](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
 
-- [Import formats](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
+- [匯入格式](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
 
 ---
 
