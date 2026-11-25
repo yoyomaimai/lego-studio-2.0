@@ -28,11 +28,11 @@ Studio 2.0 是一款軟體，讓您能夠利用種類豐富的樂高零件進行
 
 - [視埠中的攝影機控制](./Camera%20control%20in%20the%20viewpaort.md)
 
-- [建造模式介面](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
+- [建造模式介面](https://github.com/yoyomaimai/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Build%20mode%20interface.md)
 
 ### 使用工具
 
-- [鉸鏈與旋轉工具](https://github.com/wonhy1619/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
+- [鉸鏈與旋轉工具](https://github.com/yoyomaimai/lego-studio-2.0/blob/156c522b48023d1169a3d83c07b1dbaf01d1a5b3/Hinge%20and%20Rotation%20tool.md)
 
 ### 組件選用與設計
 
@@ -46,9 +46,9 @@ Studio 2.0 是一款軟體，讓您能夠利用種類豐富的樂高零件進行
 
 - [連結](./Connect.md)
 
-- [自訂調色盤](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
+- [自訂調色盤](https://github.com/yoyomaimai/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/custom_palette.md)
 
-- [匯入格式](https://github.com/wonhy1619/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
+- [匯入格式](https://github.com/yoyomaimai/lego-studio-2.0/blob/%EC%A1%B0%EC%9D%B5/docs/import_formats.md)
 
 ---
 
